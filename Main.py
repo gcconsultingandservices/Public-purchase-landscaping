@@ -14,6 +14,8 @@ password = "Vendetta#22"
 base_url = "https://www.publicpurchase.com"
 keyword = "concrete"
 
+# little change
+
 def run_script():
     # Configure Chrome options
     chrome_options = Options()
