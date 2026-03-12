@@ -12,7 +12,7 @@ import requests
 username = "hokuinc"
 password = "Vendetta#22"
 base_url = "https://www.publicpurchase.com"
-keyword = "landscaping"
+keyword = "concrete"
 
 def run_script():
     # Configure Chrome options
